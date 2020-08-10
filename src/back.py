@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup
 import smtplib
 import time
 
-gmail_id = 'surd5555@gmail.com'
-password = 'fsjkpbjefndwwzlq'
+gmail_id = '**PRIVATE**'
+password = '**PRIVATE**'
 
 def check_price(url, user_price_float, user_mail_id):
 	try:
